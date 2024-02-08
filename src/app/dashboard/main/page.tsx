@@ -36,6 +36,8 @@ export default function MainPage() {
 
         <li>Se trabajo con el nuevo sistema de rutas de Next. </li>
 
+        <li>Se creó el archivo docker para facilidad al levantar la app</li>
+
         <li>Se creo un API para simular un llamado a una BD donde me devuelve el valor inicial de la pagina para el usuario</li>
 
         <li>La aplicación no quedo tal cual como quería por temas de tiempos me faltó realizar (pruebas unitarías, documentación, 
